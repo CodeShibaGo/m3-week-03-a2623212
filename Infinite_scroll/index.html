@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+
+    <link rel="stylesheet" href="style.css" />
+    <script src="./jquery-3.7.1.js"></script>
+    <title>Infinite Scroll</title>
+  </head>
+  <body>
+    <h1>My Blog</h1>
+    <div class="filter-container">
+      <input
+        type="text"
+        id="filter"
+        class="filter"
+        placeholder="Filter posts..."
+      />
+    </div>
+    <!-- dynamin with javascipt -->
+    <div id="posts-container">
+      <!-- <div class="post">
+        <div class="number">${post.id}</div>
+        <div class="post-info">
+          <h2 class="post-title">${post.title}</h2>
+          <p class="post-body">${post.body}</p>
+        </div>
+      </div> -->
+    </div>
+
+    <div class="loader">
+      <div class="circle"></div>
+      <div class="circle"></div>
+      <div class="circle"></div>
+    </div>
+    <script src="./app.js"></script>
+  </body>
+</html>
