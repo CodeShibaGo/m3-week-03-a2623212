@@ -15,6 +15,7 @@
       <!-- form#form.form -->
       <form action="" id="form" class="form">
         <h2>Register With Us</h2>
+        <!-- 用form-control分隔 -->
         <div class="form-control">
           <label for="username">Username</label>
           <!-- input#username -->
@@ -23,13 +24,17 @@
             id="username"
             placeholder="Enter username"
           />
+          <!-- Username must be at least 3 characters -->
           <small>Error message</small>
         </div>
+        <!-- 用form-control分隔 -->
         <div class="form-control">
           <label for="email">Email</label>
           <input type="text" id="email" placeholder="Enter email" />
+          <!-- Email is not valid -->
           <small>Error message</small>
         </div>
+        <!-- 用form-control分隔 -->
         <div class="form-control">
           <label for="password">Password</label>
           <input
@@ -38,8 +43,10 @@
             placeholder="Enter password"
             autocomplete="on"
           />
+          <!-- Passwords must be at least 6 characters  -->
           <small>Error message</small>
         </div>
+        <!-- 用form-control分隔 -->
         <div class="form-control">
           <label for="password2">Confirm password</label>
           <input
@@ -48,6 +55,8 @@
             placeholder="Enter password again"
             autocomplete="on"
           />
+          <!-- 1. Passwords do not match -->
+          <!-- 2. Password2 is required -->
           <small>Error message</small>
         </div>
         <button>Submit</button>

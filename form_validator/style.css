@@ -62,6 +62,7 @@ h2 {
 }
 
 /* dynamic with javascript */
+/* 加入 .success 或 .error */
 .form-control.success input {
   border-color: var(--success-color);
 }
