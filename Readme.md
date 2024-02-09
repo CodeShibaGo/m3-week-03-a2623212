@@ -8,6 +8,6 @@
 | 02  |   無限捲動   |          [Demo](https://a2623212.github.io/m3-week-03-a2623212/)          |
 | 03  | 新年倒數計時 | [Demo](https://a2623212.github.io/m3-week-03-a2623212/new_year_countdown) |
 | 04  |  FAQ Slider  |     [Demo](https://a2623212.github.io/m3-week-03-a2623212/faq_slider)     |
-| 05  |  音樂播放器  |          [Demo](https://a2623212.github.io/m3-week-03-a2623212/)          |
+| 05  |  音樂播放器  |    [Demo](https://a2623212.github.io/m3-week-03-a2623212/music_player)    |
 | 06  |  可排序清單  |          [Demo](https://a2623212.github.io/m3-week-03-a2623212/)          |
 | 07  |    擴充字    |          [Demo](https://a2623212.github.io/m3-week-03-a2623212/)          |
