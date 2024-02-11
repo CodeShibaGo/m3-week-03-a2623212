@@ -5,7 +5,7 @@
 |  #  |   Project    |                                   Demo                                    |
 | :-: | :----------: | :-----------------------------------------------------------------------: |
 | 01  |   表單標題   |   [Demo](https://a2623212.github.io/m3-week-03-a2623212/form_validator)   |
-| 02  |   無限捲動   |          [Demo](https://a2623212.github.io/m3-week-03-a2623212/)          |
+| 02  |   無限捲動   |  [Demo](https://a2623212.github.io/m3-week-03-a2623212/Infinite_scroll)   |
 | 03  | 新年倒數計時 | [Demo](https://a2623212.github.io/m3-week-03-a2623212/new_year_countdown) |
 | 04  |  FAQ Slider  |     [Demo](https://a2623212.github.io/m3-week-03-a2623212/faq_slider)     |
 | 05  |  音樂播放器  |    [Demo](https://a2623212.github.io/m3-week-03-a2623212/music_player)    |
